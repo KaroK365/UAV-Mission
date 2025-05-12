@@ -1,7 +1,3 @@
-Got it! Here's the revised **README** that focuses **only on the backend**, removing all frontend mentions:
-
----
-
 # 🛰️ UAV Mission Planning – Backend (Go + Docker)
 
 This is the backend component of a UAV (Unmanned Aerial Vehicle) Mission Planning System. It provides REST APIs to calculate total distance, fuel usage, and time required based on coordinates sent from a client application.
